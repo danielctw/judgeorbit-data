@@ -1,0 +1,39 @@
+[
+  {
+    "id": "secrets-of-strixhaven",
+    "title": "Secrets of Strixhaven",
+    "documentDate": "2026-04-10",
+    "summary": "Judge-facing release notes for Secrets of Strixhaven, covering general set mechanics and main-set card-specific rulings.",
+    "mechanics": [
+      "Preparation Cards",
+      "Prepare",
+      "Increment",
+      "Paradigm",
+      "Infusion",
+      "Opus",
+      "Repartee",
+      "Flashback",
+      "Converge"
+    ],
+    "headings": [
+      "GENERAL NOTES",
+      "Card Legality",
+      "New Mechanic: Preparation Cards",
+      "New Keyword Action: Prepare",
+      "New Keyword Ability: Increment",
+      "New Keyword Ability: Paradigm",
+      "New Ability Word: Infusion",
+      "New Ability Word: Opus",
+      "New Ability Word: Repartee",
+      "Returning Keyword Ability: Flashback",
+      "Returning Ability Word: Converge",
+      "SECRETS OF STRIXHAVEN MAIN SET CARD-SPECIFIC NOTES"
+    ],
+    "judgeFocus": [
+      "Use the mechanics overview first when a table call turns on new set vocabulary or timing shortcuts.",
+      "The card-specific notes section is the fast lookup path once you know the exact card creating the issue.",
+      "This document is best treated as set-scoped guidance that complements CR and policy documents rather than replacing them."
+    ],
+    "sourceFileName": "EN_MTGSOS_ReleaseNotes_20260410.pdf"
+  }
+]
