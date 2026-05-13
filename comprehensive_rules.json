@@ -487,79 +487,79 @@
   },
   {
     "rule_number": "104.3k",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "In a tournament, a player may lose the game as a result of a penalty given by a judge. See rule 100.6."
   },
   {
     "rule_number": "104.4.",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "There are several ways for the game to be a draw."
   },
   {
     "rule_number": "104.4a",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "If all the players remaining in a game lose simultaneously, the game is a draw."
   },
   {
     "rule_number": "104.4b",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "If a game that's not using the limited range of influence option (including a two-player game) somehow enters a \"loop\" of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw. Loops that contain an optional action don't result in a draw."
   },
   {
     "rule_number": "104.4c",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "An effect may state that the game is a draw."
   },
   {
     "rule_number": "104.4d",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "In a multiplayer game between teams, the game is a draw if all remaining teams lose simultaneously."
   },
   {
     "rule_number": "104.4e",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "In a multiplayer game using the limited range of influence option, the effect of a spell or ability that states that the game is a draw causes the game to be a draw for that spell or ability 's controller and all players within their range of influence. Only those players leave the game; the game continues for all other players."
   },
   {
     "rule_number": "104.4f",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "In a multiplayer game using the limited range of influence option, if the game somehow enters a \"loop\" of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw for each player who controls an object that's involved in that loop, as well as for each player within the range of influence of any of those players. Only those players leave the game; the game continues for all other players."
   },
   {
     "rule_number": "104.4g",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "In a multiplayer game between teams, the game is a draw for a team if the game is a draw for all remaining players on that team."
   },
   {
     "rule_number": "104.4h",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "In the Emperor variant, the game is a draw for a team if the game is a draw for its emperor. (See rule 809.5.)"
   },
   {
     "rule_number": "104.4i",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "In a tournament, all players in the game may agree to an intentional draw. See rule 100.6."
   },
   {
     "rule_number": "104.5.",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "If a player loses the game, that player leaves the game. If the game is a draw for a player, that player leaves the game. The multiplayer rules handle what happens when a player leaves the game; see rule 800.4."
   },
   {
     "rule_number": "104.6.",
-    "category": "See also rule 903.10.)",
+    "category": "Ending the Game",
     "subcategory": null,
     "content": "One card (Karn Liberated) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 727, \"Restarting the Game.\""
   },
