@@ -1,6 +1,6 @@
 {
   "cr":  { "version": "2026-04-17", "label": "Fixed May 14, 2026"  },
   "ipg": { "version": "2024-09-23", "label": "Fixed May 22, 2026" },
-  "jar": { "version": "2020-09-25", "label": "Updated September 25, 2020"  },
+  "jar": { "version": "2024-08-05", "label": "Fixed May 22, 2026"  },
   "mtr": { "version": "2026-02-27", "label": "Fixed May 22, 2026" }
 }
