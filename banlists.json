@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-18",
+  "version": "2026-06-29",
   "source": "https://magic.wizards.com/en/banned-restricted-list",
   "formats": {
     "standard": {
@@ -121,6 +121,7 @@
         "Bazaar of Baghdad",
         "Black Lotus",
         "Bonder's Ornament",
+        "Candelabra of Tawnos",
         "Channel",
         "Chaos Orb",
         "Deathrite Shaman",
@@ -329,6 +330,7 @@
         "Monastery Swiftspear",
         "Mystic Sanctuary",
         "Peregrine Drake",
+        "Seeker of Skybreak",
         "Sinkhole",
         "Sojourner's Companion",
         "Stirring Bard",
