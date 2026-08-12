@@ -5,12 +5,15 @@
     "standard": {
       "banned": [
         "Abuelo's Awakening",
+        "Badgermole Cub",
         "Cori-Steel Cutter",
+        "Gran-Gran",
         "Heartfire Hero",
         "Hopeless Nightmare",
         "Monstrous Rage",
         "Proft's Eiditic Memory",
         "Screaming Nemesis",
+        "Stormchaser's Talent",
         "This Town Ain't Big Enough",
         "Up the Beanstalk",
         "Vivi Ornitier"
@@ -133,6 +136,7 @@
         "Entomb",
         "Expressive Iteration",
         "Falling Star",
+        "The Fantasticar",
         "Fastbond",
         "Flash",
         "Frantic Search",
@@ -195,6 +199,7 @@
       "banned": [
         "Chaos Orb",
         "Falling Star",
+        "The Fantasticar",
         "Shahrazad"
       ],
       "restricted": [
