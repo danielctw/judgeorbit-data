@@ -2,5 +2,6 @@
   "cr":  { "version": "2026-08-07", "label": "August 7, 2026"  },
   "ipg": { "version": "2024-09-23", "label": "Fixed May 22, 2026" },
   "jar": { "version": "2024-08-05", "label": "Fixed May 22, 2026"  },
-  "mtr": { "version": "2026-02-27", "label": "Fixed May 22, 2026" }
+  "mtr": { "version": "2026-02-27", "label": "Fixed May 22, 2026" },
+  "duel_commander": { "version": "2025-09-29", "label": "Updated September 29, 2025" }
 }
