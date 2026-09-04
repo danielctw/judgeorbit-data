@@ -1,0 +1,638 @@
+[
+  {
+    "rule_number": "100.1",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "100. Rules Hierarchy",
+    "content": "Duel Commander uses the Magic: The Gathering Comprehensive Rules as its foundation. Unless explicitly modified in this document, all Magic rules apply."
+  },
+  {
+    "rule_number": "100.2",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "100. Rules Hierarchy",
+    "content": "Where this document explicitly contradicts the Magic: The Gathering Comprehensive Rules, this document takes precedence."
+  },
+  {
+    "rule_number": "100.3",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "100. Rules Hierarchy",
+    "content": "Legal statements from Wizards of the Coast take precedence over all documents."
+  },
+  {
+    "rule_number": "100.4",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "100. Rules Hierarchy",
+    "content": "This document uses the numbering system established by Wizards of the Coast for comprehensive rules documents. The hundreds digit corresponds to the section number, with specific rules iterated using letters."
+  },
+  {
+    "rule_number": "101.1",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "101. Terminology",
+    "content": "\"Duel Commander\" may be abbreviated as \"DC\" throughout official documents."
+  },
+  {
+    "rule_number": "101.2",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "101. Terminology",
+    "content": "The Banned and Restricted list may be referred to as \"B&R\"."
+  },
+  {
+    "rule_number": "101.3",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "101. Terminology",
+    "content": "\"MTG\" refers to Magic: The Gathering."
+  },
+  {
+    "rule_number": "102.1",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "102. Official Documentation",
+    "content": "This document is the only official source of maintained Duel Commander rules. Any other document found online should be considered potentially outdated or unofficial."
+  },
+  {
+    "rule_number": "102.2",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "102. Official Documentation",
+    "content": "The official Banned and Restricted list is located at: duelcommander.com/banlist"
+  },
+  {
+    "rule_number": "102.3",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "102. Official Documentation",
+    "content": "The FAQ document serves as a complementary source of information for common mistakes, questions, and clarifications."
+  },
+  {
+    "rule_number": "103.1",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "103. Format Definition",
+    "content": "Duel Commander is a constructed format using Magic: The Gathering cards. It is not a sanctioned format. All sanctioned formats belong to Wizards of the Coast."
+  },
+  {
+    "rule_number": "103.2",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "103. Format Definition",
+    "content": "Any card legal in paper play becomes legal in Duel Commander on its official release date, subject to the B&R list."
+  },
+  {
+    "rule_number": "103.3",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "103. Format Definition",
+    "content": "Duel Commander is designed as a competitive format by nature, which guides all rules decisions and format development."
+  },
+  {
+    "rule_number": "103.4",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "103. Format Definition",
+    "content": "Playing Duel Commander can be considered casual Magic: The Gathering play as defined by Wizards of the Coast in their Tournament Rules. Duel Commander tournaments may be organized as standalone events or as side events at sanctioned tournaments."
+  },
+  {
+    "rule_number": "104.1",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "104. Commander Format Inheritance",
+    "content": "Duel Commander inherits from the Commander format by default, unless explicitly modified in this document. This includes color identity, the command zone, deck building constraints (100-card singleton), and commander-specific replacement effects and state-based actions."
+  },
+  {
+    "rule_number": "104.2",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "104. Commander Format Inheritance",
+    "content": "Duel Commander maintains its own separate B&R list distinct from Commander."
+  },
+  {
+    "rule_number": "104.3",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "104. Commander Format Inheritance",
+    "content": "Duel Commander does not use the commander damage rule (see rule 403)."
+  },
+  {
+    "rule_number": "105.1",
+    "category": "1. GENERAL CONSIDERATIONS",
+    "subcategory": "105. Magic: The Gathering Online",
+    "content": "When playing on Magic: The Gathering Online, software-managed rules always take precedence over this document."
+  },
+  {
+    "rule_number": "200.1",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "200. Application of Tournament Rules",
+    "content": "All Duel Commander tournaments follow Magic: The Gathering Tournament Rules, which take precedence over MTG Comprehensive Rules."
+  },
+  {
+    "rule_number": "200.2",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "200. Application of Tournament Rules",
+    "content": "Duel Commander must be treated as a \"constructed format\" when applying MTG Tournament Rules."
+  },
+  {
+    "rule_number": "200.3",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "200. Application of Tournament Rules",
+    "content": "Certified Magic judges apply official MTG rules by default. For any situation not explicitly covered in this document, refer to official MTG Comprehensive Rules and Tournament Rules."
+  },
+  {
+    "rule_number": "201.1",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "201. Player Definition",
+    "content": "Duel Commander is a one-versus-one format (two-player game). A player is a physical person playing alone without external interaction."
+  },
+  {
+    "rule_number": "202.1",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "202. Tournament Structure",
+    "content": "By default, tournaments use Swiss pairing algorithm. Tournament organizers may change the pairing algorithm before the tournament begins."
+  },
+  {
+    "rule_number": "202.2",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "202. Tournament Structure",
+    "content": "Follow MTG Tournament Rules to determine the appropriate number of rounds."
+  },
+  {
+    "rule_number": "202.3",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "202. Tournament Structure",
+    "content": "Playoff or final rounds may use different pairing structures."
+  },
+  {
+    "rule_number": "203.1",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "203. Match Format",
+    "content": "By default, matches are best-of-three (first to win 2 games)."
+  },
+  {
+    "rule_number": "203.2",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "203. Match Format",
+    "content": "Tournament organizers may change the match format before the tournament begins."
+  },
+  {
+    "rule_number": "203.3",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "203. Match Format",
+    "content": "Playoff or final rounds may have different match formats with modified win requirements."
+  },
+  {
+    "rule_number": "204.1",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "204. Time Management",
+    "content": "Standard round time is 50 minutes. Round time may be extended to 55 or 60 minutes if needed. Playoff rounds or finals may be extended to 90 minutes or unlimited time."
+  },
+  {
+    "rule_number": "204.2",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "204. Time Management",
+    "content": "When time is called, players receive 5 additional turns starting with the current turn. Judges may grant time extensions for external interruptions or judge calls."
+  },
+  {
+    "rule_number": "204.3",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "204. Time Management",
+    "content": "Timing and prizes must be explicitly announced before the tournament begins and before player registration."
+  },
+  {
+    "rule_number": "204.4",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "204. Time Management",
+    "content": "Tournaments use the rules in effect when they begin. Duel Commander rules cannot change during a tournament."
+  },
+  {
+    "rule_number": "205.1",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "205. Rules Enforcement Level",
+    "content": "Rules Enforcement Level should be Competitive by default. Tournaments without prizes may use Regular REL."
+  },
+  {
+    "rule_number": "205.2",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "205. Rules Enforcement Level",
+    "content": "The main goal of Duel Commander tournaments is to provide fun and competitive gameplay. The Duel Commander Committee can provide guidance and assistance for tournament organization."
+  },
+  {
+    "rule_number": "206.1",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "206. Decklists",
+    "content": "Players should submit decklists before the tournament begins. Decklists show 99 cards plus 1 commander, or as modified by partner mechanics."
+  },
+  {
+    "rule_number": "206.2",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "206. Decklists",
+    "content": "Decklists must be legible and unambiguous. Failure to comply may trigger infractions from judges. Digital validation methods or integrity hashes may be used."
+  },
+  {
+    "rule_number": "206.3",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "206. Decklists",
+    "content": "Players may list a 101st card with companion ability if all deck constraints are met."
+  },
+  {
+    "rule_number": "206.4",
+    "category": "2. TOURNAMENT RULES",
+    "subcategory": "206. Decklists",
+    "content": "Banned cards cannot be listed. Cards banned as commander only cannot be listed as commanders. Attraction decks cannot be used or listed. Dungeon cards need not be listed as they are treated as tokens."
+  },
+  {
+    "rule_number": "300.1",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "300. Fundamental Principles",
+    "content": "Unless specified in this section, follow MTG Comprehensive Rules section 903 (Commander) for deck construction."
+  },
+  {
+    "rule_number": "301.1",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "301. Deck Structure",
+    "content": "Each deck contains exactly 100 cards: 1 commander plus 99 library cards. This may be modified by partner, partner with, friends forever, or choose a background mechanics."
+  },
+  {
+    "rule_number": "301.2",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "301. Deck Structure",
+    "content": "Each deck must follow the singleton rule: except for basic land cards, no two cards in the deck may have the same English name."
+  },
+  {
+    "rule_number": "301.3",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "301. Deck Structure",
+    "content": "All cards in the deck must conform to the color identity of the commander. Color identity is determined according to MTG Comprehensive Rules section 903.4. Phyrexian mana symbols and hybrid mana symbols count toward color identity."
+  },
+  {
+    "rule_number": "302.1",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "302. Sideboard and Special Cards",
+    "content": "Duel Commander does not use sideboards. Mechanics referencing sideboards do not function."
+  },
+  {
+    "rule_number": "302.2",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "302. Sideboard and Special Cards",
+    "content": "Companion ability is valid. Companion cards may be listed outside the deck if all constraints are met."
+  },
+  {
+    "rule_number": "302.3",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "302. Sideboard and Special Cards",
+    "content": "Dungeon cards and companion cards are considered separate from the deck. Non-traditional cards such as Vanguard and Archenemy schemes are also separate from the deck but are not legal in Duel Commander (see rule 305)."
+  },
+  {
+    "rule_number": "303.1",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "303. Commanders",
+    "content": "Follow MTG Comprehensive Rules section 903.3 for choosing commanders."
+  },
+  {
+    "rule_number": "303.2",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "303. Commanders",
+    "content": "Cards banned in Duel Commander or banned as commanders cannot be chosen as commanders (see rule 304)."
+  },
+  {
+    "rule_number": "303.3",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "303. Commanders",
+    "content": "\"Commander\" is a designation, not a supertype. It does not appear on the card."
+  },
+  {
+    "rule_number": "304.1",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "304. Card Legality",
+    "content": "The official Banned and Restricted list is located at duelcommander.com/banlist . This list may be updated at major set releases or when cards threaten format diversity."
+  },
+  {
+    "rule_number": "304.2",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "304. Card Legality",
+    "content": "Three restriction categories exist: cards banned as commander only (cannot be commanders but may be in the 99), cards banned in deck only (may be commanders but cannot be in the 99, currently no such cards exist), and cards banned in Duel Commander (cannot be used anywhere, including with companion ability)."
+  },
+  {
+    "rule_number": "305.1",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "305. Generally Banned Cards",
+    "content": "Only cards legal in paper sanctioned MTG formats are legal in Duel Commander. Excluded cards include but are not limited to: gold-bordered cards, silver-bordered cards, cards with acorn holofoil stamps, conspiracies, cards with non-standard Magic backs, square-cornered cards, oversized cards, non-traditional cards (Planechase, Archenemy, Vanguard), cards marked offensive by Wizards of the Coast, stickers, attractions, and digital-only cards."
+  },
+  {
+    "rule_number": "305.2",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "305. Generally Banned Cards",
+    "content": "Ante cards are excluded."
+  },
+  {
+    "rule_number": "305.3",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "305. Generally Banned Cards",
+    "content": "Physical dexterity cards (Falling Star, Chaos Orb) are excluded."
+  },
+  {
+    "rule_number": "305.4",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "305. Generally Banned Cards",
+    "content": "Shahrazad is excluded for structural reasons."
+  },
+  {
+    "rule_number": "306.1",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "306. Non-Card Material",
+    "content": "Only traditional Magic cards may be used in Duel Commander, with specific exceptions."
+  },
+  {
+    "rule_number": "306.2",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "306. Non-Card Material",
+    "content": "Dungeons are accepted non-traditional cards."
+  },
+  {
+    "rule_number": "306.3",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "306. Non-Card Material",
+    "content": "Attractions are not accepted."
+  },
+  {
+    "rule_number": "306.4",
+    "category": "3. DECK CONSTRUCTION",
+    "subcategory": "306. Non-Card Material",
+    "content": "Stickers are not accepted."
+  },
+  {
+    "rule_number": "400.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "400. Fundamental Gameplay",
+    "content": "Unless specified in this section, follow MTG Comprehensive Rules section 903 (Commander) for gameplay."
+  },
+  {
+    "rule_number": "401.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "401. Game Parameters",
+    "content": "Each player begins with 20 life. Effects that modify starting life totals are valid and apply normally."
+  },
+  {
+    "rule_number": "401.2",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "401. Game Parameters",
+    "content": "Duel Commander uses the London Mulligan as defined in MTG Comprehensive Rules section 103.4."
+  },
+  {
+    "rule_number": "402.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "402. Command Zone",
+    "content": "Duel Commander games use the command zone as defined in MTG Comprehensive Rules section 408. The command zone is a public zone."
+  },
+  {
+    "rule_number": "402.2",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "402. Command Zone",
+    "content": "Although commanders share the command zone with non-traditional objects (Planechase planes, Archenemy schemes, emblems), they do not share rules. Only eligible commanders can use command zone rules."
+  },
+  {
+    "rule_number": "402.3",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "402. Command Zone",
+    "content": "Follow MTG Comprehensive Rules section 103.2 for game start procedures."
+  },
+  {
+    "rule_number": "403.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "403. Commander Damage",
+    "content": "There is no commander damage win condition in Duel Commander. This applies to any amount of damage. All other regular Magic ways of winning or losing apply. This is an exception to MTG Comprehensive Rules sections 104.3, 704.5, and 903.10."
+  },
+  {
+    "rule_number": "404.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "404. Casting Commanders",
+    "content": "Players may only cast one of their commanders from the command zone per game (the first one cast). This choice need not be announced before casting."
+  },
+  {
+    "rule_number": "404.2",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "404. Casting Commanders",
+    "content": "Once a commander is cast from the command zone, other commanders in that zone cannot be cast from there."
+  },
+  {
+    "rule_number": "404.3",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "404. Casting Commanders",
+    "content": "Other commanders remain subject to MTG Comprehensive Rules section 903.9 and may be cast from other zones."
+  },
+  {
+    "rule_number": "404.4",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "404. Casting Commanders",
+    "content": "Commanders cast from zones other than the command zone don't count for rule 404.1."
+  },
+  {
+    "rule_number": "404.5",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "404. Casting Commanders",
+    "content": "Example: Using Command Beacon to put a commander in hand doesn't affect which commander can be cast from the command zone."
+  },
+  {
+    "rule_number": "405.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "405. Colored Mana Production",
+    "content": "If a player would add mana outside their commander's color identity, they add that mana normally and may spend it normally."
+  },
+  {
+    "rule_number": "406.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "406. Objects Outside the Game",
+    "content": "Effects that bring cards from outside the game do not function in Duel Commander."
+  },
+  {
+    "rule_number": "406.2",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "406. Objects Outside the Game",
+    "content": "Companion ability is not affected by rule 406.1 as companions reference themselves."
+  },
+  {
+    "rule_number": "406.3",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "406. Objects Outside the Game",
+    "content": "Between rounds, only commander swapping is allowed (see rule 407). No other deck alterations are permitted."
+  },
+  {
+    "rule_number": "407.1",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "407. Commander Swapping",
+    "content": "Players may swap commanders after each game of the same round."
+  },
+  {
+    "rule_number": "407.2",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "407. Commander Swapping",
+    "content": "For the first game each round, players put their commanders face-up in the command zone before shuffling."
+  },
+  {
+    "rule_number": "407.3",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "407. Commander Swapping",
+    "content": "After the first game, players reveal commanders simultaneously (either face-up immediately or face-down then turned up together)."
+  },
+  {
+    "rule_number": "407.4",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "407. Commander Swapping",
+    "content": "Commanders must remain legal when swapping. Color identity cannot change between games. Only commanders from the original decklist may be used. Players may change the number of commanders when swapping."
+  },
+  {
+    "rule_number": "407.5",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "407. Commander Swapping",
+    "content": "Players should take reasonable time to choose commanders between games."
+  },
+  {
+    "rule_number": "407.6",
+    "category": "4. GAMEPLAY RULES",
+    "subcategory": "407. Commander Swapping",
+    "content": "Restarted games and subgames use the same commanders as the main game. No swapping for restarted or subgames."
+  },
+  {
+    "rule_number": "500.1",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "500. Foundation and Philosophy",
+    "content": "Duel Commander utilizes the comprehensive tournament documentation produced by Wizards of the Coast, including the Magic Infraction Procedure Guide (IPG) and Magic Tournament Rules (MTR). All standard Magic infractions and procedures apply to Duel Commander tournaments unless explicitly modified in this section."
+  },
+  {
+    "rule_number": "500.2",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "500. Foundation and Philosophy",
+    "content": "Duel Commander represents a unique competitive adaptation of the Commander format. The Wizards of the Coast documentation was not designed with the intersection of Commander mechanics and competitive play in mind. Therefore, judges must apply these documents with proper understanding, sound judgment, and adherence to the underlying philosophy articulated throughout the IPG and MTR."
+  },
+  {
+    "rule_number": "500.3",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "500. Foundation and Philosophy",
+    "content": "The situations outlined in this section require consistent application of the guidance provided by the Duel Commander Committee, both in assessment of infractions and in philosophical approach. When questions arise, judges should reference the standard Magic tournament documents while considering the competitive Commander context, and are encouraged to consult with experienced members of the Duel Commander judging community."
+  },
+  {
+    "rule_number": "500.4",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "500. Foundation and Philosophy",
+    "content": "Duel Commander tournaments shall be judged with the same rigorous standards as any competitive Magic tournament. Certified Magic judges are qualified to judge Duel Commander events and should treat all situations with the same level of professionalism and consistency expected at Competitive or Professional Rules Enforcement Level."
+  },
+  {
+    "rule_number": "501.1",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "501. Commander Swapping Violations",
+    "content": "Infraction: Tournament Error \u2013 Deck Problem"
+  },
+  {
+    "rule_number": "501.2",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "501. Commander Swapping Violations",
+    "content": "A player commits this infraction when they improperly execute the commander swapping procedure between games, including but not limited to: using commanders not listed on their decklist, swapping commanders in a manner that violates color identity constraints, or failing to properly reveal swapped commanders to their opponent."
+  },
+  {
+    "rule_number": "501.3",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "501. Commander Swapping Violations",
+    "content": "Philosophy: Commander swapping is functionally equivalent to sideboarding in traditional constructed formats. Players are expected to understand and execute this procedure correctly, as it directly affects deck legality and provides strategic information to the opponent. The swapping mechanism is designed to add strategic depth without compromising the integrity of deck registration. Errors in this procedure undermine the competitive balance that proper commander selection provides, and players should be held accountable for maintaining the legality of their deck configuration throughout the match."
+  },
+  {
+    "rule_number": "501.4",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "501. Commander Swapping Violations",
+    "content": "Additional Remedy: Apply the standard remedy for Tournament Error \u2013 Deck Problem as outlined in the IPG. If the violation is discovered before the game begins, correct the commander configuration immediately. If discovered during a game, follow IPG procedures for resolving deck problems during gameplay."
+  },
+  {
+    "rule_number": "502.1",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "502. Slow Commander Selection",
+    "content": "Infraction: Tournament Error \u2013 Slow Play or Unsporting Conduct \u2013 Stalling"
+  },
+  {
+    "rule_number": "502.2",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "502. Slow Commander Selection",
+    "content": "A player commits this infraction when they take an unreasonable amount of time to select and reveal their commander(s) between games of a match, thereby delaying the progress of the match and potentially disadvantaging their opponent."
+  },
+  {
+    "rule_number": "502.3",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "502. Slow Commander Selection",
+    "content": "Philosophy: While commander selection involves legitimate strategic considerations, players are expected to make these decisions in a timely manner. The distinction between Slow Play and Stalling depends on intent: unintentional delays due to indecision constitute Slow Play, while deliberately prolonging the selection process to gain advantage (such as consuming time when ahead in games) constitutes Stalling. Judges should observe patterns of behavior and consider whether the delay serves any legitimate purpose. Players should prepare their commander selection strategy before the match ends to minimize between-game delays. The time allocated for commander swapping should be reasonable but not excessive, as the decision should be based on information already gathered during previous games."
+  },
+  {
+    "rule_number": "502.4",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "502. Slow Commander Selection",
+    "content": "Additional Remedy: If the infraction is Tournament Error \u2013 Slow Play, apply the standard IPG remedy including time extensions as appropriate. If the judge determines the delay is intentional (Unsporting Conduct \u2013 Stalling), issue a Disqualification and investigate whether the player was attempting to manipulate the match outcome through time advantage."
+  },
+  {
+    "rule_number": "503.1",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "503. Failure to Properly Reveal Commanders",
+    "content": "Infraction: Tournament Error \u2013 Communication Policy Violation"
+  },
+  {
+    "rule_number": "503.2",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "503. Failure to Properly Reveal Commanders",
+    "content": "A player commits this infraction when they refuse to reveal their commander(s) at the appropriate time, reveal them in an improper sequence (such as revealing after seeing their opponent's choice when simultaneous revelation is required), or otherwise fail to communicate their commander selection clearly and in accordance with tournament procedures."
+  },
+  {
+    "rule_number": "503.3",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "503. Failure to Properly Reveal Commanders",
+    "content": "Philosophy: Commander identity is public information that opponents are entitled to know at specific points in the match structure. The revelation procedure exists to maintain competitive equity and prevent information advantages. For the first game of a match, commanders are placed face-up before shuffling. After subsequent games, simultaneous revelation ensures neither player gains an unfair advantage by selecting their commander in response to their opponent's choice. Failure to follow this procedure, whether through confusion or an attempt to gain advantage, undermines the fundamental fairness of the format. Clear communication is essential in competitive Magic, and this principle extends to commander selection procedures."
+  },
+  {
+    "rule_number": "503.4",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "503. Failure to Properly Reveal Commanders",
+    "content": "Additional Remedy: If the error has provided an unfair advantage (such as seeing the opponent's commander before making one's own choice), a backup may be considered to the point before the improper revelation. Both players should then follow the correct simultaneous revelation procedure. Judges should clearly explain the proper procedure to prevent future violations."
+  },
+  {
+    "rule_number": "504.1",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "504. Format Rules Violation",
+    "content": "Infraction: Tournament Error \u2013 Decklist Problem, Tournament Error \u2013 Deck Problem, or Game Play Error \u2013 Game Rule Violation"
+  },
+  {
+    "rule_number": "504.2",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "504. Format Rules Violation",
+    "content": "A player commits this infraction when they incorrectly apply rules from other Commander variants (such as multiplayer Commander) to Duel Commander, resulting in violations such as: tracking commander damage (which does not exist in Duel Commander), misapplying color identity restrictions, incorrectly interpreting starting life totals, or other format-specific errors."
+  },
+  {
+    "rule_number": "504.3",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "504. Format Rules Violation",
+    "content": "Philosophy: Players entering a Duel Commander tournament are responsible for understanding the format's specific rules and how they differ from other Commander variants. While genuine confusion between formats is understandable given their similarities, this does not excuse violations that affect game outcomes. The appropriate penalty depends on the nature and timing of the error: errors in deck construction or registration constitute Decklist or Deck Problems, while gameplay errors fall under Game Rule Violations. Judges should educate players about format differences while enforcing the rules consistently. The competitive nature of Duel Commander requires strict adherence to its unique rules set, even when they diverge from more familiar Commander variants. Players should verify format-specific rules before tournament participation."
+  },
+  {
+    "rule_number": "504.4",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "504. Format Rules Violation",
+    "content": "The specific infraction depends on when and how the error occurred. If the error stems from an illegal decklist, apply Tournament Error \u2013 Decklist Problem. If the deck's physical composition violates format rules, apply Tournament Error \u2013 Deck Problem. If the error occurs during gameplay (such as incorrectly tracking commander damage), apply Game Play Error \u2013 Game Rule Violation."
+  },
+  {
+    "rule_number": "505.1",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "505. Commander in Deck During Presentation",
+    "content": "Infraction: Game Play Error \u2013 Game Rule Violation or Tournament Error \u2013 Deck Problem"
+  },
+  {
+    "rule_number": "505.2",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "505. Commander in Deck During Presentation",
+    "content": "A player commits this infraction when their commander(s) are discovered within their library or other deck zones during deck presentation or deck checks, rather than being properly placed in the command zone before the game begins."
+  },
+  {
+    "rule_number": "505.3",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "505. Commander in Deck During Presentation",
+    "content": "Philosophy: Commanders must begin the game in the command zone, as this is fundamental to the format's identity and gameplay structure. When a commander is found in the deck during presentation, this represents a significant procedural error. The distinction between penalties depends on intent and timing: if the player simply forgot to place their commander in the command zone, it is a Game Rule Violation. However, if investigation reveals the player intended to execute a commander swap but did so incorrectly (such as failing to remove the previous commander or improperly adding the new one), the infraction becomes a Tournament Error \u2013 Deck Problem as described in rule 501. Judges must investigate whether the error was a simple oversight or part of an improper swapping procedure, as this determines both the appropriate penalty and remedy."
+  },
+  {
+    "rule_number": "505.4",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "505. Commander in Deck During Presentation",
+    "content": "Additional Remedy: A partial fix may be considered to return the commander(s) to their proper zone, commonly referred to as an object-in-wrong-zone correction. If discovered during deck presentation before shuffling, remove the commander(s) from the deck and place them in the command zone immediately. If discovered during a deck check or after the game has begun, apply this partial fix when possible."
+  },
+  {
+    "rule_number": "505.5",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "505. Commander in Deck During Presentation",
+    "content": "If the error is discovered during or immediately after an action that moved the commander(s) to another zone (such as drawing into hand, milling to graveyard, or any other zone change), the zone change correction may still be performed: place the commander(s) in the command zone and have the player add replacement card(s) from the library or the appropriate zone to the appropriate destination zone for each commander removed. This maintains the correct number of cards affected by the action while ensuring commanders are in their appropriate zone."
+  },
+  {
+    "rule_number": "505.6",
+    "category": "5. JUDGING AND INFRACTIONS",
+    "subcategory": "505. Commander in Deck During Presentation",
+    "content": "If the error is part of an improper commander swap, refer to rule 501 and apply Tournament Error \u2013 Deck Problem procedures instead of the partial fix described above."
+  }
+]
